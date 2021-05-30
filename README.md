@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a passionate mobile developer with more than 7 years experience, recently focused on Flutter.
+
 <!--
 **pintalubaf/pintalubaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
