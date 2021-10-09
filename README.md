@@ -1,18 +1,12 @@
-### Hi there 👋
+### Hi there, you can call me Fede. 👋
 
-I'm a passionate mobile developer with more than 7 years experience, recently focused on Flutter.
+![Hi](https://media.giphy.com/media/WpIPS0DWNpMm4kfMVr/giphy.gif)
 
-<!--
-**pintalubaf/pintalubaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate mobile developer with more than 8 years experience, recently focused on Flutter.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on an awesome social fitness application that will change the future of personal training.
+- 🌱 I’m currently learning top-notch architectures, state management approaches and folder structures for big Flutter enterprise projects.
+- 👯 I’m looking to collaborate on open source Flutter projects and solutions to common problems.
+- 📫 How to reach me: Shoot a mail to [pintalubaf@gmail.com](mailto:pintalubaf@gmail.com). and I'll be glad to start a conversation with you. Also, you can check out my [LinkedIn Profile](https://www.linkedin.com/in/fpintaluba/).
+- ⚡ Fun fact: I went to see last Harry Potter movie alone to the cinema surrounded by kids.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
